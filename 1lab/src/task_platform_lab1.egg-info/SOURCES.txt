@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/task_platform/__init__.py
+src/task_platform/contracts.py
+src/task_platform/models.py
+src/task_platform/receiver.py
+src/task_platform/sources.py
+src/task_platform_lab1.egg-info/PKG-INFO
+src/task_platform_lab1.egg-info/SOURCES.txt
+src/task_platform_lab1.egg-info/dependency_links.txt
+src/task_platform_lab1.egg-info/requires.txt
+src/task_platform_lab1.egg-info/top_level.txt
+tests/test_contracts.py
+tests/test_receiver.py
+tests/test_sources.py
